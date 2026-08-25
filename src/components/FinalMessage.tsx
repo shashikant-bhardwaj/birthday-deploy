@@ -98,7 +98,7 @@ export default function FinalMessage() {
           viewport={{ once: true }}
           transition={{ delay: 1 }}
         >
-          Made with endless love, just for you, Bhavya.
+          I hope  you liked this meri Ladduuuu
         </motion.p>
       </div>
     </section>

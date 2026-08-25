@@ -151,10 +151,10 @@ Today, the world celebrates the day it was blessed with you. But I celebrate you
 Happy Birthday, my love. Here's to a lifetime of memories, laughter, and love.
 
 Forever yours,
-Your Love ❤️`;
+Your Sisudii ❤️`;
 
 export const SECRET_HEART_MESSAGE =
-  'You hold the key to my heart, Bhavya. Always have, always will. ❤️';
+  'pta hai mai humesha  tumhara hi rahunga kyuki mai tumhare aage kabhi kuch dekhta hi nhi, meri aankhein sirf tum tak hai aur humesha  tum pe hi rahegi ❤️';
 
 export const BIRTHDAY_WISH_MESSAGE =
   'Happy Birthday, my beautiful Bhavya! May every wish of yours come true, and may this year be filled with as much joy as you bring to my life. ❤️🎂';
@@ -164,7 +164,7 @@ export const FINAL_TITLE =
   'Happy Birthday to the Most Beautiful Person in My Life, Bhavya ❤️';
 
 export const FINAL_MESSAGE =
-  'Bhavya, thank you for filling my life with happiness, love, laughter, and countless beautiful memories. I hope this new year of your life brings you everything your heart desires. No matter where life takes us, I will always cherish every moment with you. ❤️';
+  'hello bhavya ye chhota sa gift tumhare liye i hope  tumhe acha lgega, vaise sach btau toh tum ho toh sab acha lgta hai , tum ek din na milo toh lgta hai jaise ptani kitna time ho gya mile hue, mai kabhi vo life imagine krna hi nhi chahta jismei tum mere sath nhi ho, kyunki tum ho toh mai sab kuch hu aur tum nhi toh mai kuch bhi nhi. i want to marry you ,having future and  kids with you . bas itna bolna chahunga ki humesha sath rehna kyuki tumhare baad meri life mei koi nhi hoga mai khud khud ke pass nhi hounga. i love you so much bhavya, itna ki ye 3 words toh bht kam pd jayenge mere pyaar btane ke liye tumhare liye  ❤️';
 
 export const FINAL_CLOSING = 'I Love You Bhavya ❤️ Forever and Always.';
 
@@ -172,6 +172,6 @@ export const FINAL_CLOSING = 'I Love You Bhavya ❤️ Forever and Always.';
 // To add your own background music:
 //  1. Place your audio file in the `public/music/` folder
 //  2. Replace the src below with "/music/your-song.mp3"
-export const MUSIC_SRC = '';
+export const MUSIC_SRC = '/Pani Da Rang Male Vicky Donor 320 Kbps.mp3';
 export const MUSIC_TITLE = 'Our Song';
 export const MUSIC_ARTIST = 'For Bhavya ❤️';

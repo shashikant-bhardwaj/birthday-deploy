@@ -11,6 +11,7 @@
   --romantic-plum: #1a0b2e;
 }
 
+
 * {
   box-sizing: border-box;
 }
@@ -26,6 +27,7 @@ body {
   color: #fff5ec;
   overflow-x: hidden;
 }
+
 
 .font-script {
   font-family: 'Great Vibes', cursive;
@@ -46,6 +48,7 @@ body {
 ::-webkit-scrollbar-track {
   background: #0a0014;
 }
+ 
 ::-webkit-scrollbar-thumb {
   background: linear-gradient(180deg, #ff4d6d, #c9184a);
   border-radius: 999px;

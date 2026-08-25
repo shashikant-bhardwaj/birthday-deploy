@@ -46,7 +46,7 @@ export default function VideosSection() {
           viewport={{ once: true }}
           transition={{ delay: 0.3 }}
         >
-          Memories I will always cherish with you, Bhavya. ✨
+          niche ek video hai dekhna jaroor. ✨
         </motion.p>
 
         <div
